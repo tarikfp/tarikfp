@@ -1,4 +1,4 @@
-#### Hi there 👋 I am Tarik, I develop applications mostly with Javascript, Typescript and Swift. Playing around with React Native and Swift currently.
+#### Hi there 👋 I am Tarik, I develop applications mostly with Javascript, Typescript and Swift. Playing around with React Native and Swift recently.
 
 
 - 🔭 I’m currently working on a Swift project
