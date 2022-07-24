@@ -1,4 +1,16 @@
-#### Hi there 👋 I am Tarik, I develop applications mostly with Javascript, Typescript and Swift. Playing around with React Native and Swift currently. I really do love developing mobile applications!
+#### Hi there 👋 I am Tarik, I develop applications mostly with Javascript, Typescript and Swift. Playing around with React Native and Swift currently.
+
+
+- 🔭 I’m currently working on a Swift project
+- 🌱 I’m currently learning Swift
+- 👯 I’m looking to collaborate on React Native project
+- 💬 Ask me about React, React Native
+- 📫 How to reach me: tarikdotcom@gmail.com
+
+
+
+
+---
 
 Some of the technologies I code with
 
@@ -27,37 +39,25 @@ Some of the technologies I code with
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Stackoverflow profile
 
 [![Tarik StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/9631529/tarik)
 
 
+---
+
 [![Tarik's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarikpnr&show_icons=true&theme=radical)](https://github.com/tarikpnr/github-readme-stats)
 
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
 
 
 
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Swift
-- 👯 I’m looking to collaborate on React Native project
-- 💬 Ask me about React, React Native
-- 📫 How to reach me: tarikdotcom@gmail.com
+
+
 
