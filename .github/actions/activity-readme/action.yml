@@ -1,0 +1,6 @@
+jobs:
+  my_first_job:
+    steps:
+      - name: GitHub - Activity - Readme
+        uses: jamesgeorge007/github-activity-readme@v0.3.6
+        
