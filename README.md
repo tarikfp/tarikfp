@@ -54,10 +54,10 @@ Stackoverflow profile
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/tarikpnr/react-native-utils/pull/3) in [tarikpnr/react-native-utils](https://github.com/tarikpnr/react-native-utils)
-2. 🗣 Commented on [#1029](https://github.com/gorhom/react-native-bottom-sheet/issues/1029) in [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)
-3. 💪 Opened PR [#1029](https://github.com/gorhom/react-native-bottom-sheet/pull/1029) in [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)
-4. 🗣 Commented on [#3691](https://github.com/TanStack/query/issues/3691) in [TanStack/query](https://github.com/TanStack/query)
+1. 💪 Opened PR [#2259](https://github.com/FaridSafi/react-native-gifted-chat/pull/2259) in [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
+2. 🎉 Merged PR [#3](https://github.com/tarikpnr/react-native-utils/pull/3) in [tarikpnr/react-native-utils](https://github.com/tarikpnr/react-native-utils)
+3. 🗣 Commented on [#1029](https://github.com/gorhom/react-native-bottom-sheet/issues/1029) in [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)
+4. 💪 Opened PR [#1029](https://github.com/gorhom/react-native-bottom-sheet/pull/1029) in [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)
 5. 🗣 Commented on [#3691](https://github.com/TanStack/query/issues/3691) in [TanStack/query](https://github.com/TanStack/query)
 <!--END_SECTION:activity-->
 
