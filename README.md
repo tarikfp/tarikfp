@@ -54,11 +54,11 @@ Stackoverflow profile
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#119](https://github.com/taskrabbit/react-native-parsed-text/pull/119) in [taskrabbit/react-native-parsed-text](https://github.com/taskrabbit/react-native-parsed-text)
-2. 💪 Opened PR [#119](https://github.com/taskrabbit/react-native-parsed-text/pull/119) in [taskrabbit/react-native-parsed-text](https://github.com/taskrabbit/react-native-parsed-text)
-3. 💪 Opened PR [#2259](https://github.com/FaridSafi/react-native-gifted-chat/pull/2259) in [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
-4. 🎉 Merged PR [#3](https://github.com/tarikpnr/react-native-utils/pull/3) in [tarikpnr/react-native-utils](https://github.com/tarikpnr/react-native-utils)
-5. 🗣 Commented on [#1029](https://github.com/gorhom/react-native-bottom-sheet/issues/1029) in [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)
+1. 💪 Opened PR [#619](https://github.com/react-native-netinfo/react-native-netinfo/pull/619) in [react-native-netinfo/react-native-netinfo](https://github.com/react-native-netinfo/react-native-netinfo)
+2. ❌ Closed PR [#119](https://github.com/taskrabbit/react-native-parsed-text/pull/119) in [taskrabbit/react-native-parsed-text](https://github.com/taskrabbit/react-native-parsed-text)
+3. 💪 Opened PR [#119](https://github.com/taskrabbit/react-native-parsed-text/pull/119) in [taskrabbit/react-native-parsed-text](https://github.com/taskrabbit/react-native-parsed-text)
+4. 💪 Opened PR [#2259](https://github.com/FaridSafi/react-native-gifted-chat/pull/2259) in [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
+5. 🎉 Merged PR [#3](https://github.com/tarikpnr/react-native-utils/pull/3) in [tarikpnr/react-native-utils](https://github.com/tarikpnr/react-native-utils)
 <!--END_SECTION:activity-->
 
 
