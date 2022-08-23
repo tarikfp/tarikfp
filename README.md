@@ -25,11 +25,11 @@ Stackoverflow profile
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/tarikpnr/react-native-ui-kit/pull/1) in [tarikpnr/react-native-ui-kit](https://github.com/tarikpnr/react-native-ui-kit)
-2. 💪 Opened PR [#619](https://github.com/react-native-netinfo/react-native-netinfo/pull/619) in [react-native-netinfo/react-native-netinfo](https://github.com/react-native-netinfo/react-native-netinfo)
-3. ❌ Closed PR [#119](https://github.com/taskrabbit/react-native-parsed-text/pull/119) in [taskrabbit/react-native-parsed-text](https://github.com/taskrabbit/react-native-parsed-text)
-4. 💪 Opened PR [#119](https://github.com/taskrabbit/react-native-parsed-text/pull/119) in [taskrabbit/react-native-parsed-text](https://github.com/taskrabbit/react-native-parsed-text)
-5. 💪 Opened PR [#2259](https://github.com/FaridSafi/react-native-gifted-chat/pull/2259) in [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
+1. 🎉 Merged PR [#3](https://github.com/tarikpnr/react-native-ui-kit/pull/3) in [tarikpnr/react-native-ui-kit](https://github.com/tarikpnr/react-native-ui-kit)
+2. 💪 Opened PR [#3](https://github.com/tarikpnr/react-native-ui-kit/pull/3) in [tarikpnr/react-native-ui-kit](https://github.com/tarikpnr/react-native-ui-kit)
+3. 🎉 Merged PR [#1](https://github.com/tarikpnr/react-native-ui-kit/pull/1) in [tarikpnr/react-native-ui-kit](https://github.com/tarikpnr/react-native-ui-kit)
+4. 💪 Opened PR [#619](https://github.com/react-native-netinfo/react-native-netinfo/pull/619) in [react-native-netinfo/react-native-netinfo](https://github.com/react-native-netinfo/react-native-netinfo)
+5. ❌ Closed PR [#119](https://github.com/taskrabbit/react-native-parsed-text/pull/119) in [taskrabbit/react-native-parsed-text](https://github.com/taskrabbit/react-native-parsed-text)
 <!--END_SECTION:activity-->
 
 
