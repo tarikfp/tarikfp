@@ -25,11 +25,11 @@ Stackoverflow profile
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1029](https://github.com/gorhom/react-native-bottom-sheet/issues/1029) in [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)
-2. 🎉 Merged PR [#3](https://github.com/tarikpnr/react-native-ui-kit/pull/3) in [tarikpnr/react-native-ui-kit](https://github.com/tarikpnr/react-native-ui-kit)
-3. 💪 Opened PR [#3](https://github.com/tarikpnr/react-native-ui-kit/pull/3) in [tarikpnr/react-native-ui-kit](https://github.com/tarikpnr/react-native-ui-kit)
-4. 🎉 Merged PR [#1](https://github.com/tarikpnr/react-native-ui-kit/pull/1) in [tarikpnr/react-native-ui-kit](https://github.com/tarikpnr/react-native-ui-kit)
-5. 💪 Opened PR [#619](https://github.com/react-native-netinfo/react-native-netinfo/pull/619) in [react-native-netinfo/react-native-netinfo](https://github.com/react-native-netinfo/react-native-netinfo)
+1. 💪 Opened PR [#10804](https://github.com/react-navigation/react-navigation/pull/10804) in [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
+2. 🗣 Commented on [#1029](https://github.com/gorhom/react-native-bottom-sheet/issues/1029) in [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)
+3. 🎉 Merged PR [#3](https://github.com/tarikpnr/react-native-ui-kit/pull/3) in [tarikpnr/react-native-ui-kit](https://github.com/tarikpnr/react-native-ui-kit)
+4. 💪 Opened PR [#3](https://github.com/tarikpnr/react-native-ui-kit/pull/3) in [tarikpnr/react-native-ui-kit](https://github.com/tarikpnr/react-native-ui-kit)
+5. 🎉 Merged PR [#1](https://github.com/tarikpnr/react-native-ui-kit/pull/1) in [tarikpnr/react-native-ui-kit](https://github.com/tarikpnr/react-native-ui-kit)
 <!--END_SECTION:activity-->
 
 
