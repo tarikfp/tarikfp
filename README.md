@@ -25,11 +25,11 @@ Stackoverflow profile
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/tarikpnr/react-native-n64-voter-app/issues/2) in [tarikpnr/react-native-n64-voter-app](https://github.com/tarikpnr/react-native-n64-voter-app)
-2. 🎉 Merged PR [#2](https://github.com/tarikpnr/react-native-n64-voter-app/pull/2) in [tarikpnr/react-native-n64-voter-app](https://github.com/tarikpnr/react-native-n64-voter-app)
-3. 🗣 Commented on [#3397](https://github.com/callstack/react-native-paper/issues/3397) in [callstack/react-native-paper](https://github.com/callstack/react-native-paper)
-4. 🗣 Commented on [#2230](https://github.com/wix/react-native-ui-lib/issues/2230) in [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib)
-5. 💪 Opened PR [#3397](https://github.com/callstack/react-native-paper/pull/3397) in [callstack/react-native-paper](https://github.com/callstack/react-native-paper)
+1. 🗣 Commented on [#10943](https://github.com/react-navigation/react-navigation/issues/10943) in [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
+2. 🗣 Commented on [#2](https://github.com/tarikpnr/react-native-n64-voter-app/issues/2) in [tarikpnr/react-native-n64-voter-app](https://github.com/tarikpnr/react-native-n64-voter-app)
+3. 🎉 Merged PR [#2](https://github.com/tarikpnr/react-native-n64-voter-app/pull/2) in [tarikpnr/react-native-n64-voter-app](https://github.com/tarikpnr/react-native-n64-voter-app)
+4. 🗣 Commented on [#3397](https://github.com/callstack/react-native-paper/issues/3397) in [callstack/react-native-paper](https://github.com/callstack/react-native-paper)
+5. 🗣 Commented on [#2230](https://github.com/wix/react-native-ui-lib/issues/2230) in [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib)
 <!--END_SECTION:activity-->
 
 
