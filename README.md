@@ -14,8 +14,7 @@
 
 Stackoverflow profile
 
-[![Tarik StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/9631529/tarik)
-
+<a href="https://stackoverflow.com/users/9631529/tarik"><img src="https://stackoverflow.com/users/flair/9631529.png" width="208" height="58" alt="profile for Tarik at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tarik at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ---
 
