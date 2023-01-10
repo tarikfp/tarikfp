@@ -19,7 +19,7 @@ Stackoverflow profile
 
 ---
 
-[![Tarik's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarikpnr&show_icons=true&theme=radical)](https://github.com/tarikpnr/github-readme-stats)
+[![Tarik's GitHub stats](https://github-readme-stats-tarikdotcom-gmailcom.vercel.app/api?username=tarikpnr&show_icons=true&theme=radical)](https://github.com/tarikpnr/github-readme-stats)
 
 
 ### :zap: Recent Activity
