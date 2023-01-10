@@ -14,7 +14,7 @@
 
 Stackoverflow profile
 
-<a href="https://stackoverflow.com/users/9631529/tarik"><img src="https://stackoverflow.com/users/flair/9631529.png" width="208" height="58" alt="profile for Tarik at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tarik at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackexchange.com/users/13344248"><img src="https://stackexchange.com/users/flair/13344248.png" width="208" height="58" alt="profile for Tarik on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tarik on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ---
 
