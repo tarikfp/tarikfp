@@ -12,9 +12,11 @@
 
 ---
 
-Stackoverflow profile
 
-<a href="https://stackexchange.com/users/13344248"><img src="https://stackexchange.com/users/flair/13344248.png" width="208" height="58" alt="profile for Tarik on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tarik on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a target="_blank" href="https://www.linkedin.com/in/tarik-pinarci"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:tarikdotcom@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@tarikpnr"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+<a target="_blank" href="https://stackoverflow.com/users/9631529/tarik"><img src="https://img.shields.io/badge/-Stackoverflow-F48224?style=for-the-badge&logo=stack-overflow&logoColor=white"></img></a>
 
 ---
 
