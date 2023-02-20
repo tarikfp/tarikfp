@@ -26,11 +26,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/tarikpnr/react-native-ui-kit/issues/4) in [tarikpnr/react-native-ui-kit](https://github.com/tarikpnr/react-native-ui-kit)
-2. 🗣 Commented on [#4](https://github.com/tarikpnr/react-native-ui-kit/issues/4) in [tarikpnr/react-native-ui-kit](https://github.com/tarikpnr/react-native-ui-kit)
-3. 🗣 Commented on [#10943](https://github.com/react-navigation/react-navigation/issues/10943) in [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
-4. 🗣 Commented on [#2](https://github.com/tarikpnr/react-native-n64-voter-app/issues/2) in [tarikpnr/react-native-n64-voter-app](https://github.com/tarikpnr/react-native-n64-voter-app)
-5. 🎉 Merged PR [#2](https://github.com/tarikpnr/react-native-n64-voter-app/pull/2) in [tarikpnr/react-native-n64-voter-app](https://github.com/tarikpnr/react-native-n64-voter-app)
+1. 🎉 Merged PR [#1](https://github.com/tarikpnr/React-Native-Testing/pull/1) in [tarikpnr/React-Native-Testing](https://github.com/tarikpnr/React-Native-Testing)
+2. 💪 Opened PR [#1](https://github.com/tarikpnr/rn-zustand-rq/pull/1) in [tarikpnr/rn-zustand-rq](https://github.com/tarikpnr/rn-zustand-rq)
+3. ❗️ Closed issue [#4](https://github.com/tarikpnr/react-native-ui-kit/issues/4) in [tarikpnr/react-native-ui-kit](https://github.com/tarikpnr/react-native-ui-kit)
+4. 🗣 Commented on [#4](https://github.com/tarikpnr/react-native-ui-kit/issues/4) in [tarikpnr/react-native-ui-kit](https://github.com/tarikpnr/react-native-ui-kit)
+5. 🗣 Commented on [#10943](https://github.com/react-navigation/react-navigation/issues/10943) in [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
 <!--END_SECTION:activity-->
 
 
