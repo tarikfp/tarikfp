@@ -26,11 +26,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3949](https://github.com/wix/Detox/issues/3949) in [wix/Detox](https://github.com/wix/Detox)
-2. 🎉 Merged PR [#2](https://github.com/tarikpnr/react-native-testing/pull/2) in [tarikpnr/react-native-testing](https://github.com/tarikpnr/react-native-testing)
-3. 💪 Opened PR [#2](https://github.com/tarikpnr/react-native-testing/pull/2) in [tarikpnr/react-native-testing](https://github.com/tarikpnr/react-native-testing)
-4. 🎉 Merged PR [#1](https://github.com/tarikpnr/React-Native-Testing/pull/1) in [tarikpnr/React-Native-Testing](https://github.com/tarikpnr/React-Native-Testing)
-5. 💪 Opened PR [#1](https://github.com/tarikpnr/rn-zustand-rq/pull/1) in [tarikpnr/rn-zustand-rq](https://github.com/tarikpnr/rn-zustand-rq)
+1. 🗣 Commented on [#3949](https://github.com/wix/Detox/issues/3949) in [wix/Detox](https://github.com/wix/Detox)
+2. ❗️ Opened issue [#3949](https://github.com/wix/Detox/issues/3949) in [wix/Detox](https://github.com/wix/Detox)
+3. 🎉 Merged PR [#2](https://github.com/tarikpnr/react-native-testing/pull/2) in [tarikpnr/react-native-testing](https://github.com/tarikpnr/react-native-testing)
+4. 💪 Opened PR [#2](https://github.com/tarikpnr/react-native-testing/pull/2) in [tarikpnr/react-native-testing](https://github.com/tarikpnr/react-native-testing)
+5. 🎉 Merged PR [#1](https://github.com/tarikpnr/React-Native-Testing/pull/1) in [tarikpnr/React-Native-Testing](https://github.com/tarikpnr/React-Native-Testing)
 <!--END_SECTION:activity-->
 
 
