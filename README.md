@@ -29,8 +29,8 @@
 1. 🗣 Commented on [#3949](https://github.com/wix/Detox/issues/3949) in [wix/Detox](https://github.com/wix/Detox)
 2. 🗣 Commented on [#3949](https://github.com/wix/Detox/issues/3949) in [wix/Detox](https://github.com/wix/Detox)
 3. 🗣 Commented on [#3949](https://github.com/wix/Detox/issues/3949) in [wix/Detox](https://github.com/wix/Detox)
-4. ❗️ Opened issue [#3949](https://github.com/wix/Detox/issues/3949) in [wix/Detox](https://github.com/wix/Detox)
-5. 🎉 Merged PR [#2](https://github.com/tarikpnr/react-native-testing/pull/2) in [tarikpnr/react-native-testing](https://github.com/tarikpnr/react-native-testing)
+4. 🗣 Commented on [#3949](https://github.com/wix/Detox/issues/3949) in [wix/Detox](https://github.com/wix/Detox)
+5. ❗️ Opened issue [#3949](https://github.com/wix/Detox/issues/3949) in [wix/Detox](https://github.com/wix/Detox)
 <!--END_SECTION:activity-->
 
 
