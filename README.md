@@ -26,8 +26,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#250](https://github.com/Shopify/restyle/issues/250) in [Shopify/restyle](https://github.com/Shopify/restyle)
-2. 🗣 Commented on [#3949](https://github.com/wix/Detox/issues/3949) in [wix/Detox](https://github.com/wix/Detox)
+1. 💪 Opened PR [#251](https://github.com/Shopify/restyle/pull/251) in [Shopify/restyle](https://github.com/Shopify/restyle)
+2. ❗️ Opened issue [#250](https://github.com/Shopify/restyle/issues/250) in [Shopify/restyle](https://github.com/Shopify/restyle)
 3. 🗣 Commented on [#3949](https://github.com/wix/Detox/issues/3949) in [wix/Detox](https://github.com/wix/Detox)
 4. 🗣 Commented on [#3949](https://github.com/wix/Detox/issues/3949) in [wix/Detox](https://github.com/wix/Detox)
 5. 🗣 Commented on [#3949](https://github.com/wix/Detox/issues/3949) in [wix/Detox](https://github.com/wix/Detox)
