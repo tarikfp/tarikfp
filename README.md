@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on React Native project
 - 💬 Ask me about React, React Native
-- 📫 How to reach me: tarikdotcom@gmail.com
+- 🧑🏻‍💻 My personal website: <a target="_blank" href="https://tarikpinarci.com/">tarikdotcom.com</a>
 
 
 
@@ -19,6 +19,7 @@
 <a target="_blank" href="https://stackoverflow.com/users/9631529/tarik"><img src="https://img.shields.io/badge/-Stackoverflow-F48224?style=for-the-badge&logo=stack-overflow&logoColor=white"></img></a>
 
 ---
+
 
 [![Tarik's GitHub stats](https://github-readme-stats-pi-sable.vercel.app/api?username=tarikpnr&show_icons=true&theme=radical)](https://github.com/tarikpnr/github-readme-stats)
 
