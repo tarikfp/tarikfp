@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on React Native project
 - 💬 Ask me about React, React Native
-- 🧑🏻‍💻 My personal website: <a target="_blank" href="https://tarikpinarci.com/">tarikdotcom.com</a>
+- 🧑🏻‍💻 My personal website: <a target="_blank" href="https://tarikpinarci.com/">tarikpinarci.com</a>
 
 
 
