@@ -27,11 +27,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#952](https://github.com/gorhom/react-native-bottom-sheet/pull/952#issuecomment-1696094821) in [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)
-2. 🗣 Commented on [#36494](https://github.com/facebook/react-native/issues/36494#issuecomment-1675862554) in [facebook/react-native](https://github.com/facebook/react-native)
-3. 🗣 Commented on [#122](https://github.com/react-native-checkbox/react-native-checkbox/issues/122#issuecomment-1632457087) in [react-native-checkbox/react-native-checkbox](https://github.com/react-native-checkbox/react-native-checkbox)
-4. 🗣 Commented on [#11397](https://github.com/react-navigation/react-navigation/issues/11397#issuecomment-1607417643) in [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
-5. 🗣 Commented on [#22584](https://github.com/expo/expo/issues/22584#issuecomment-1566111914) in [expo/expo](https://github.com/expo/expo)
+1. 🗣 Commented on [#9089](https://github.com/react-navigation/react-navigation/issues/9089#issuecomment-1736006787) in [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
+2. 🗣 Commented on [#952](https://github.com/gorhom/react-native-bottom-sheet/pull/952#issuecomment-1696094821) in [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)
+3. 🗣 Commented on [#36494](https://github.com/facebook/react-native/issues/36494#issuecomment-1675862554) in [facebook/react-native](https://github.com/facebook/react-native)
+4. 🗣 Commented on [#122](https://github.com/react-native-checkbox/react-native-checkbox/issues/122#issuecomment-1632457087) in [react-native-checkbox/react-native-checkbox](https://github.com/react-native-checkbox/react-native-checkbox)
+5. 🗣 Commented on [#11397](https://github.com/react-navigation/react-navigation/issues/11397#issuecomment-1607417643) in [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
 <!--END_SECTION:activity-->
 
 
