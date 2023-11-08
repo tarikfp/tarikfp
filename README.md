@@ -27,11 +27,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1836](https://github.com/bluesky-social/social-app/pull/1836) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
-2. 💪 Opened PR [#1767](https://github.com/bluesky-social/social-app/pull/1767) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
-3. 🗣 Commented on [#9089](https://github.com/react-navigation/react-navigation/issues/9089#issuecomment-1736006787) in [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
-4. 🗣 Commented on [#952](https://github.com/gorhom/react-native-bottom-sheet/pull/952#issuecomment-1696094821) in [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)
-5. 🗣 Commented on [#36494](https://github.com/facebook/react-native/issues/36494#issuecomment-1675862554) in [facebook/react-native](https://github.com/facebook/react-native)
+1. 💪 Opened PR [#1842](https://github.com/bluesky-social/social-app/pull/1842) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
+2. ❌ Closed PR [#1836](https://github.com/bluesky-social/social-app/pull/1836) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
+3. 💪 Opened PR [#1836](https://github.com/bluesky-social/social-app/pull/1836) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
+4. 💪 Opened PR [#1767](https://github.com/bluesky-social/social-app/pull/1767) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
+5. 🗣 Commented on [#9089](https://github.com/react-navigation/react-navigation/issues/9089#issuecomment-1736006787) in [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
 <!--END_SECTION:activity-->
 
 
