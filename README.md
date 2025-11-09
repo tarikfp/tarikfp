@@ -1,7 +1,4 @@
-#### Hi there 👋 I am Tarik
-
-
-Primarily doing stuff with React Native and Swift. Building <a target="_blank" href="https://smarnatai.com/">Smarnat App</a> and <a target="_blank" href="https://osmtacticsapp.netlify.app/">OSM Tactics App</a> <br/><br/>
+#### Hi 👋 primarily doing stuff with React Native and Swift. Building <a target="_blank" href="https://moodnova.app/">MoodNova</a>.  <br/><br/>
 For everything else, check out my website: <a target="_blank" href="https://tarikpinarci.com/">tarikpinarci.com</a>
 
 
