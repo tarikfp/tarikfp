@@ -17,7 +17,7 @@ For everything else, check out my website: <a target="_blank" href="https://tari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1844](https://github.com/bluesky-social/social-app/pull/1844) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
+1. 💪 Opened PR [#41008](undefined) in [expo/expo](https://github.com/expo/expo)
 2. 💪 Opened PR [#1842](https://github.com/bluesky-social/social-app/pull/1842) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
 3. ❌ Closed PR [#1836](https://github.com/bluesky-social/social-app/pull/1836) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
 4. 💪 Opened PR [#1836](https://github.com/bluesky-social/social-app/pull/1836) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
