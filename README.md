@@ -10,10 +10,6 @@ For everything else, check out my website: <a target="_blank" href="https://tari
 
 ---
 
-
-[![Tarik's GitHub stats](https://github-readme-stats-pi-sable.vercel.app/api?username=tarikfp&show_icons=true&theme=radical)](https://github.com/tarikfp/github-readme-stats)
-
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
