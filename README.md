@@ -14,7 +14,7 @@ For everything else, check out my website: <a target="_blank" href="https://tari
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#41008](https://github.com/expo/expo/pull/41008#issuecomment-3538872195) in [expo/expo](https://github.com/expo/expo)
-2. 💪 Opened PR [#41008](undefined) in [expo/expo](https://github.com/expo/expo)
+2. 💪 Opened PR [#41008](https://github.com/expo/expo/pull/41008) in [expo/expo](https://github.com/expo/expo)
 3. ❌ Closed PR [#1836](https://github.com/bluesky-social/social-app/pull/1836) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
 4. 💪 Opened PR [#1836](https://github.com/bluesky-social/social-app/pull/1836) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
 5. 💪 Opened PR [#1767](https://github.com/bluesky-social/social-app/pull/1767) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
