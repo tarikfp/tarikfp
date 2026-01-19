@@ -1,4 +1,5 @@
-#### Hi 👋 primarily doing stuff with React Native and Swift. Building <a target="_blank" href="https://moodnova.app/">MoodNova</a>.  <br/><br/>
+#### Hi 👋
+I write code with AI!
 For everything else, check out my website: <a target="_blank" href="https://tarikpinarci.com/">tarikpinarci.com</a>
 
 
