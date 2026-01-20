@@ -14,11 +14,11 @@ For everything else, check out my website: <a target="_blank" href="https://tari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/callstackincubator/voltra/pull/33) in [callstackincubator/voltra](https://github.com/callstackincubator/voltra)
-2. 🎉 Merged PR [#34](https://github.com/callstackincubator/voltra/pull/34) in [callstackincubator/voltra](https://github.com/callstackincubator/voltra)
-3. 💪 Opened PR [#34](https://github.com/callstackincubator/voltra/pull/34) in [callstackincubator/voltra](https://github.com/callstackincubator/voltra)
-4. 💪 Opened PR [#33](https://github.com/callstackincubator/voltra/pull/33) in [callstackincubator/voltra](https://github.com/callstackincubator/voltra)
-5. 💪 Opened PR [#30](https://github.com/callstackincubator/voltra/pull/30) in [callstackincubator/voltra](https://github.com/callstackincubator/voltra)
+1. 🗣 Commented on [#30](https://github.com/callstackincubator/voltra/pull/30#issuecomment-3772948767) in [callstackincubator/voltra](https://github.com/callstackincubator/voltra)
+2. 🎉 Merged PR [#33](https://github.com/callstackincubator/voltra/pull/33) in [callstackincubator/voltra](https://github.com/callstackincubator/voltra)
+3. 🎉 Merged PR [#34](https://github.com/callstackincubator/voltra/pull/34) in [callstackincubator/voltra](https://github.com/callstackincubator/voltra)
+4. 💪 Opened PR [#34](https://github.com/callstackincubator/voltra/pull/34) in [callstackincubator/voltra](https://github.com/callstackincubator/voltra)
+5. 💪 Opened PR [#33](https://github.com/callstackincubator/voltra/pull/33) in [callstackincubator/voltra](https://github.com/callstackincubator/voltra)
 <!--END_SECTION:activity-->
 
 
