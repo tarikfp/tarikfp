@@ -14,11 +14,11 @@ For everything else, check out my website: <a target="_blank" href="https://tari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/callstackincubator/voltra/pull/46) in [callstackincubator/voltra](https://github.com/callstackincubator/voltra)
-2. 🎉 Merged PR [#30](https://github.com/callstackincubator/voltra/pull/30) in [callstackincubator/voltra](https://github.com/callstackincubator/voltra)
-3. 🗣 Commented on [#231](https://github.com/OneSignal/onesignal-expo-plugin/issues/231#issuecomment-3789185941) in [OneSignal/onesignal-expo-plugin](https://github.com/OneSignal/onesignal-expo-plugin)
-4. 💪 Opened PR [#254](https://github.com/OneSignal/onesignal-expo-plugin/pull/254) in [OneSignal/onesignal-expo-plugin](https://github.com/OneSignal/onesignal-expo-plugin)
-5. 🗣 Commented on [#30](https://github.com/callstackincubator/voltra/pull/30#issuecomment-3772948767) in [callstackincubator/voltra](https://github.com/callstackincubator/voltra)
+1. 🗣 Commented on [#46](https://github.com/callstackincubator/voltra/pull/46#issuecomment-3939067687) in [callstackincubator/voltra](https://github.com/callstackincubator/voltra)
+2. 💪 Opened PR [#46](https://github.com/callstackincubator/voltra/pull/46) in [callstackincubator/voltra](https://github.com/callstackincubator/voltra)
+3. 🎉 Merged PR [#30](https://github.com/callstackincubator/voltra/pull/30) in [callstackincubator/voltra](https://github.com/callstackincubator/voltra)
+4. 🗣 Commented on [#231](https://github.com/OneSignal/onesignal-expo-plugin/issues/231#issuecomment-3789185941) in [OneSignal/onesignal-expo-plugin](https://github.com/OneSignal/onesignal-expo-plugin)
+5. 💪 Opened PR [#254](https://github.com/OneSignal/onesignal-expo-plugin/pull/254) in [OneSignal/onesignal-expo-plugin](https://github.com/OneSignal/onesignal-expo-plugin)
 <!--END_SECTION:activity-->
 
 
