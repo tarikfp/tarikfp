@@ -1,6 +1,6 @@
 #### Hi 👋
-I write code with AI!
-For everything else, check out my website: <a target="_blank" href="https://tarikpinarci.com/">tarikpinarci.com</a>
+Working mainly with mobile apps,
+for everything else, check out my website: <a target="_blank" href="https://tarikpinarci.com/">tarikpinarci.com</a>
 
 
 ---
