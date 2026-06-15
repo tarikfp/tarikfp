@@ -14,11 +14,11 @@ for everything else, check out my website: <a target="_blank" href="https://tari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57206](https://github.com/react/react-native/pull/57206) in [react/react-native](https://github.com/react/react-native)
-2. 💪 Opened PR [#57203](https://github.com/react/react-native/pull/57203) in [react/react-native](https://github.com/react/react-native)
-3. 💪 Opened PR [#57200](https://github.com/react/react-native/pull/57200) in [react/react-native](https://github.com/react/react-native)
-4. 🗣 Commented on [#231](https://github.com/OneSignal/onesignal-expo-plugin/issues/231#issuecomment-3789185941) in [OneSignal/onesignal-expo-plugin](https://github.com/OneSignal/onesignal-expo-plugin)
-5. 💪 Opened PR [#254](https://github.com/OneSignal/onesignal-expo-plugin/pull/254) in [OneSignal/onesignal-expo-plugin](https://github.com/OneSignal/onesignal-expo-plugin)
+1. 💪 Opened PR [#57210](https://github.com/react/react-native/pull/57210) in [react/react-native](https://github.com/react/react-native)
+2. ❌ Closed PR [#57206](https://github.com/react/react-native/pull/57206) in [react/react-native](https://github.com/react/react-native)
+3. 💪 Opened PR [#57206](https://github.com/react/react-native/pull/57206) in [react/react-native](https://github.com/react/react-native)
+4. 💪 Opened PR [#57203](https://github.com/react/react-native/pull/57203) in [react/react-native](https://github.com/react/react-native)
+5. 💪 Opened PR [#57200](https://github.com/react/react-native/pull/57200) in [react/react-native](https://github.com/react/react-native)
 <!--END_SECTION:activity-->
 
 
